@@ -7,7 +7,9 @@
 
 # --- List of links in the navigation bar --- #
 navbar-links:
+  Home: "index"
   About Me: "about"
+  Политика: "politics"
   Resources:
     - Github: "https://github.com/yep606"
 
