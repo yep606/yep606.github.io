@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Marx"
+thumbnail-img: "/images/logo.jpg"
 date:   2020-11-19 02:01:56 +0300
 tags: [politics]
 ---
